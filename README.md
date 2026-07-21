@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Wesley!
 
-<!--
-**wesleylim-morco/wesleylim-morco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd year Computer Engineering student at Universidad Europea de Madrid.
 
-Here are some ideas to get you started:
+## What I'm into
+Databases, backend logic, and data-driven problem solving, with an open mind toward where that leads, whether that's software engineering, data engineering, or bioinformatics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I've worked with
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Projects
+Check out my pinned repositories below for what I've been building.
+
+## Reach me
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wesleylim.morco@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-lim-morco/)
